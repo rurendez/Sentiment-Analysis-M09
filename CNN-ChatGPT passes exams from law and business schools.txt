@@ -1,0 +1,51 @@
+ChatGPT passes exams from law and business schools
+ChatGPT is smart enough to pass prestigious graduate-level exams -- though not with particularly high marks.
+
+By Samantha Murphy Kelly
+
+Updated Jan. 26, 2023 06:35 PMVer original
+CNN  — 
+
+ChatGPT is smart enough to pass prestigious graduate-level exams – though not with particularly high marks.
+
+The powerful new AI chatbot tool recently passed law exams in four courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business, according to professors at the schools.
+
+To test how well ChatGPT could generate answers on exams for the four courses, professors at the University of Minnesota Law School recently graded the tests blindly. After completing 95 multiple choice questions and 12 essay questions, the bot performed on average at the level of a C+ student, achieving a low but passing grade in all four courses.
+
+ChatGPT fared better during a business management course exam at Wharton, where it earned a B to B- grade. In a paper detailing the performance, Christian Terwiesch, a Wharton business professor, said ChatGPT did “an amazing job” at answering basic operations management and process-analysis questions but struggled with more advanced prompts and made “surprising mistakes” with basic math.
+
+“These mistakes can be massive in magnitude,” he wrote.
+
+The test results come as a growing number of schools and teachers express concerns about the immediate impact of ChatGPT on students and their ability to cheat on assignments. Some educators are now moving with remarkable speed to rethink their assignments in response to ChatGPT, even as it remains unclear how widespread use is of the tool among students and how harmful it could really be to learning.
+
+Jake Auchincloss
+Congressman gives speech written by AI
+
+02:49 - Source: CNN
+
+Since it was made available in late November, ChatGPT has been used to generate original essays, stories and song lyrics in response to user prompts. It has drafted research paper abstracts that fooled some scientists. Some CEOs have even used it to write emails or do accounting work.
+
+ChatGPT is trained on vast amounts of online data in order to generate responses to user prompts. While it has gained traction among users, it has also raised some concerns, including about inaccuracies and its potential to perpetuate biases and spread misinformation.
+
+Jon Choi, one of the University of Minnesota law professors, told CNN the goal of the tests was to explore ChatGPT’s potential to assist lawyers in their practice and to help students in exams, whether or not it’s permitted by their professors, because the questions often mimic the writing lawyers do in real life.
+
+“ChatGPT struggled with the most classic components of law school exams, such as spotting potential legal issues and deep analysis applying legal rules to the facts of a case,” Choi said. “But ChatGPT could be very helpful at producing a first draft that a student could then refine.”
+
+He argues human-AI collaboration is the most promising use case for ChatGPT and similar technology.
+
+“My strong hunch is that AI assistants will become standard tools for lawyers in the near future, and law schools should prepare their students for that eventuality,” he said. “Of course, if law professors want to continue to test simple recall of legal rules and doctrines, they’ll need to put restrictions in place like banning the internet during exams to enforce that.”
+
+Likewise, Wharton’s Terwiesch found the chatbot was “remarkably good” at modifying its answers in response to human hints, such as reworking answers after pointing out an error, suggesting the potential for people to work together with AI.
+
+scott galloway vpx
+Scott Galloway on the 'scarier part' of AI tools like ChatGPT
+
+02:07 - Source: CNN
+
+In the short-term, however, discomfort remains with whether and how students should use ChatGPT. Public schools in New York City and Seattle, for example, have already banned students and teachers from using ChatGPT on the district’s networks and devices.
+
+Considering ChatGPT performed above average on his exam, Terwiesch told CNN he agrees restrictions should be put in place for students while they’re taking tests.
+
+“Bans are needed,” he said. “After all, when you give a medical doctor a degree, you want them to know medicine, not how to use a bot. The same holds for other skill certification, including law and business.”
+
+But Terwiesch believes this technology still ultimately has a place in the classroom. “If all we end up with is the same educational system as before, we have wasted an amazing opportunity that comes with ChatGPT,” he said.
